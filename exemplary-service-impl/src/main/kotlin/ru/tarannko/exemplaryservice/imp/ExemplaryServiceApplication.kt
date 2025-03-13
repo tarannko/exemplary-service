@@ -1,4 +1,4 @@
-package ru.tarannko.exemplary_service
+package ru.tarannko.exemplaryservice.imp
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
