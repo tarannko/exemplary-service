@@ -18,12 +18,15 @@
     <name>exemplary-service</name>
     <description>Demo project for Spring Boot</description>
     <url/>
+
     <licenses>
         <license/>
     </licenses>
+
     <developers>
         <developer/>
     </developers>
+
     <scm>
         <connection/>
         <developerConnection/>
@@ -34,6 +37,7 @@
     <modules>
         <module>exemplary-service-impl</module>
         <module>exemplary-service-api</module>
+        <module>exemplary-service-integration-tests</module>
     </modules>
 
     <properties>
